@@ -1,0 +1,5 @@
+Facebook in 2015 wasn't hacked as such. But it allowed scraping and misuse of data. The group that stole the data used grey-hat techniques.
+
+While most data breaches are true ones of security. It should be noted that data is out there for many to use. Not all breaches or data leaks are 'hacks'.
+
+The unfortunate truth is that companies spend millions to gather and index our data. It's creepy.
